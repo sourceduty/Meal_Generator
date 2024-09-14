@@ -11,6 +11,10 @@ The system can also accommodate specific dietary restrictions, such as gluten-fr
 The GPT also emphasizes flexibility, providing creative ideas when the user is uncertain about their preferences. Whether the goal is to eat more healthfully, experiment with new cuisines, or manage dietary restrictions, it offers personalized guidance. By being user-friendly and proactive, this GPT helps streamline meal planning, making it easier to enjoy a balanced and satisfying diet.
 
 #
+
+![Bacon](https://github.com/user-attachments/assets/d78a9262-ffd5-4ec9-ab0e-0a5ae2f48502)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
