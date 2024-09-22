@@ -15,6 +15,10 @@ The GPT also emphasizes flexibility, providing creative ideas when the user is u
 ![Bacon](https://github.com/user-attachments/assets/d78a9262-ffd5-4ec9-ab0e-0a5ae2f48502)
 
 #
+
+![Groceries](https://github.com/user-attachments/assets/662615c0-903a-49d7-8713-57857acabdfc)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
