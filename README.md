@@ -1,4 +1,4 @@
-![Meal Generator](https://github.com/user-attachments/assets/04efd601-72d7-4044-903f-41c067076720)
+![Meal Generator](https://github.com/user-attachments/assets/8d0ad3b5-a86d-4b4e-a8b7-8208407982ab)
 
 > Create various types of meal plans.
 
@@ -16,7 +16,8 @@ The GPT also emphasizes flexibility, providing creative ideas when the user is u
 
 #
 
-![Groceries](https://github.com/user-attachments/assets/662615c0-903a-49d7-8713-57857acabdfc)
+![Meal Generator](https://github.com/user-attachments/assets/04efd601-72d7-4044-903f-41c067076720)
+
 
 #
 ### Related Links
